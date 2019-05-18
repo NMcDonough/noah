@@ -12,4 +12,4 @@ app.get('/resume', function(req, res){
 
 app.use(express.static('public'));
 
-app.listen(3000);
+app.listen(3030);
